@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: cv-app
-        image: gcr.io/conchita-demos-trainings/imgwebapp:v1
+        image: gcr.io/qwiklabs-gcp-04-1aed3fa467d3/imgwebapp:v1
         ports:
         - containerPort: 8501
